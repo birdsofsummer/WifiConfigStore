@@ -18,6 +18,5 @@ wpa_supplicant.conf
 ```bash
 adb pull /data/misc/wifi/WifiConfigStore.xml .
 python3 wifi.py
-cat wifi.json
 
 ```
